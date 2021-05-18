@@ -4,5 +4,6 @@
 - 😄 Pronouns: he,him
 - ⚡ Fun fact: I enjoy playing video games, my favorite is RPGS.
 -->
-<span style="color:blue">some *blue* text</span>
+
+
 
